@@ -16,7 +16,7 @@ Take a look below at some of our recently completed tiling projects at locations
 </p>
 <div class="flex justify-center items-center space-x-4 p-4">
   <img src="src\images\299-High-007-Resize.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
-  <img src="src\images\299-High-008-Resize.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
+  <img src="src\images\299-High-008-Resize.jpg" alt="imgg" class="w-1/4 h-auto  shadow-md"/>
   <img src="src\images\HP_SpudBAR-The-Glen_15_Full+resolution_8688x5792_U_100_Adobe_1920.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
   <img src="src\images\Screenshot 2024-04-10 224847.png" alt="img" class="w-1/4 h-auto  shadow-md"/>
 </div>

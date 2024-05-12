@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import Footer from './Footer'
 
-
+Navbar
 const Portfolio = () => {
   return (
     <div className=''>
@@ -15,10 +15,10 @@ const Portfolio = () => {
 Take a look below at some of our recently completed tiling projects at locations throughout Melbourne. We’re proud to have been a part of creating some truly beautiful properties. If you’d like more detailed information about any of the work you see below, please don’t hesitate to contact us.
 </p>
 <div class="flex justify-center items-center space-x-4 p-4">
-  <img src="src\images\299-High-007-Resize.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
-  <img src="src\images\299-High-008-Resize.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
-  <img src="src\images\HP_SpudBAR-The-Glen_15_Full+resolution_8688x5792_U_100_Adobe_1920.jpg" alt="img" class="w-1/4 h-auto  shadow-md"/>
-  <img src="src\images\Screenshot 2024-04-10 224847.png" alt="img" class="w-1/4 h-auto  shadow-md"/>
+  <img src="src\images\299-High-007-Resize.jpg" alt="Image 1" class="w-1/4 h-auto  shadow-md"/>
+  <img src="src\images\299-High-008-Resize.jpg" alt="Image 2" class="w-1/4 h-auto  shadow-md"/>
+  <img src="src\images\HP_SpudBAR-The-Glen_15_Full+resolution_8688x5792_U_100_Adobe_1920.jpg" alt="Image 3" class="w-1/4 h-auto  shadow-md"/>
+  <img src="src\images\Screenshot 2024-04-10 224847.png" alt="Image 4" class="w-1/4 h-auto  shadow-md"/>
 </div>
 
 <div className='second flex justify-between m-5 p-2  mt-20 gap-10'>
