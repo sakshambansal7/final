@@ -9,7 +9,7 @@ const Page1 = () => {
       <div className=' flex justify-center'>
 
         <div className='w-[76vw]  mt-20  rounded-'>
-          <img src="http://localhost:8080/bakery%20(2).jpg" alt="img" />
+          <img src="src\images\bakery (2).jpg" alt="" />
         </div>
       </div>
       <h1 className=' text-[5vh] font-bold text-center'>WELCOME TO TILE PROS</h1>

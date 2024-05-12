@@ -8,14 +8,14 @@ const Indoor = () => {
     <div className=''>
     <Navbar />
     <div className='flex justify-center items-center   h-[50vh]   mt-24 mb-10 overflow-hidden'>
-      <img className='object-fit   object-contain ' src="http://localhost:8080\_DSC7097-scaled.jpg" alt="img" />
+      <img className='object-fit   object-contain ' src="src\images\_DSC7097-scaled.jpg" alt="img" />
     </div>
     <h1 className='text-[5vh] font-bold text-gray-800 mb-2 text-center'>INDOOR OUTDOORS</h1>
     <p class="text-gray-700 w-3/4 p-4  mb-5 rounded-lg text-[4vh] leading-relaxed text-center sm:text-base md:text-lg mx-auto">
     There's nothing better than dining outdoors or taking a swim when the weather is warm, making it essential to create an alfresco area that's comfortable, functional, and attractive. The Tile Pros can help you achieve this by installing chic tiles designed to withstand the elements and enhance your outdoor space.</p>
 
     <div class='unique flex justify-between m-10 p-5'>
-    <img class='w-[40vw]' src='http://localhost:8080\299-High-007-Resize.jpg' alt='Caulking Image' />
+    <img class='w-[40vw]' src='src\images\299-High-007-Resize.jpg' alt='Caulking Image' />
     <div class='w-[50vw]'>
         <h1 class='text-zinc-500 text-[5vh] font-semibold'>TRANSFORM YOUR OUTDOOR SPACE</h1>
         <p class='text-[#7A7A7A] text-[3.5vh] leading-[1.2]'>
@@ -38,13 +38,13 @@ const Indoor = () => {
 
 </p>
         <div class='flex gap-10'>
-            <img class='h-[40vh] w-[50vh]' src='http://localhost:8080/Screenshot 2024-04-10 234141.png' alt='Image 1' />
-            <img class='h-[40vh] w-[50vh]' src='http://localhost:8080/Screenshot 2024-04-10 234300.png' alt='Image 2' />
+            <img class='h-[40vh] w-[50vh]' src='src/images/Screenshot 2024-04-10 234141.png' alt='Image 1' />
+            <img class='h-[40vh] w-[50vh]' src='src/images/Screenshot 2024-04-10 234300.png' alt='Image 2' />
         </div>
     </div>
 
     <div class='flex-1 fit'>
-        <img class='h-[102vh] w-[100vh]' src='http://localhost:8080\HP_SpudBAR-The-Glen_07_Full+resolution_5792x8688_U_100_Adobe_1200.jpg' alt='Big Image' />
+        <img class='h-[102vh] w-[100vh]' src='src\images\HP_SpudBAR-The-Glen_07_Full+resolution_5792x8688_U_100_Adobe_1200.jpg' alt='Big Image' />
     </div>
 </div>
 
