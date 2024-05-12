@@ -10,6 +10,7 @@ const Home = () => {
     <>
      <Navbar className='z-50' />
       <Page1/>
+      <Page3/>
       <Insta/>
       <Footer/>
     </>
